@@ -10,7 +10,7 @@ Simple wrapper around [Staticman](https://staticman.net/) that allows it to be h
 - Create/edit a `netlify.toml` file at the root of your project with the following content. The important thing to note here is the `functions` field which tells netlify where your functions are kept in the project
 ```toml
 [build]
-  command = "yarn build"
+  command = "yarn"
   functions = "functions"
   publish = "build"
 ```

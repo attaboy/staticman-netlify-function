@@ -4,7 +4,7 @@
   "description": "Staticman with netlify functions",
   "main": "index.js",
   "author": "Luke Andrews",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "qs": "^6.9.1",
     "request": "^2.34",
